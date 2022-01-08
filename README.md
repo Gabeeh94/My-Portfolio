@@ -5,6 +5,8 @@ Repository for personal projects
 
 A Python scraper that downloads the PDF with all the SUBE's (Buenos Aires's public transportation system) data of a particular person and a script that uses OCR to create a csv from the images. This file is then intended to be used to do some basic analysis and visualizations.
 
+
+
 ## [Project 2: Regression based on the Economic Freedom Index](https://github.com/Gabeeh94/Economic-Freedom-Regression)
 
 ¿Is there a relationship between GDP per capita and the economic freedom score of a country?
