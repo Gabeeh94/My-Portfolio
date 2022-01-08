@@ -1,5 +1,5 @@
 # Gabriel Quinteros Berocay's Portfolio
-Basic repository for personal projects
+Repository for personal projects
 
 ## [Project 1: SUBE personal data scraper and cleaner](https://github.com/Gabeeh94/SUBE-Project)
 
