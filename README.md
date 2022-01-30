@@ -13,6 +13,8 @@ A Python scraper that downloads the PDF with all the SUBE's (Buenos Aires's publ
 
 To answer this question, different regressions taking as a dependent variable (that is, the one we want to explain) the GDP per capita adjuste by purchase parity power and as an independent variable the economic freedom score of the Heritage foundation. For this analysis we used Python and the modules numpy, Pandas, statsmodel and matplotlib.
 
+Final Model
+
 ![Final model](/images/quad regression.png)
 
 y = 20,0134x² - 950,0644x
