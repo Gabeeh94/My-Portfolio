@@ -3,8 +3,10 @@ Repository for personal projects
 
 ## [Project 1: SUBE personal data scraper and cleaner](https://github.com/Gabeeh94/SUBE-Project)
 
-A Python scraper that downloads the PDF with all the SUBE's (Buenos Aires's public transportation system) data of a particular person and a script that uses OCR to create a csv from the images. This file is then intended to be used to do some basic analysis and visualizations.
+A Python scraper that downloads the PDF with all the SUBE's (Buenos Aires's public transportation system) data of a particular person and a script that uses OCR to create a csv from the images. This file was then used in Power Bi to do some basic analysis and visualizations.
 
+
+![Power Bi Example](/images/SUBE-Power-Bi.png)
 
 
 ## [Project 2: Regression based on the Economic Freedom Index](https://github.com/Gabeeh94/Economic-Freedom-Regression)
