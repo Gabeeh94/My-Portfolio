@@ -23,4 +23,6 @@ y = 20,0134x² - 950,0644x
 
 ## [Project 3: Suicide Rate Analysis using SQL and Python](https://github.com/Gabeeh94/Suicide-Rate)
 
-An analysis of the suicide rate in the world using SQL and Python to clean and extrapolate conclusions from the data including a regression and classification analysis to see if there is a relationship between GDP per Capita or Sunshine level and the suicide rate.
+An analysis of the suicide rate in the world using SQL and Python to clean and extrapolate conclusions from the data including an interactive map, a regression and a classification analysis to see if there is a relationship between GDP per Capita or Sunshine level and the suicide rate.
+
+![Interactive Map](/images/Map.jpg)
