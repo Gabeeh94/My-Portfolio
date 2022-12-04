@@ -19,7 +19,7 @@ Final Model:
 
 ![Final model](/images/quad regression.png)
 
-y = 20,0134x² - 950,0644x
+ y = 42.9777x² - 3854.5294x + 8.99e+04
 
 ## [Project 3: Suicide Rate Analysis using SQL and Python](https://github.com/Gabeeh94/Suicide-Rate)
 
