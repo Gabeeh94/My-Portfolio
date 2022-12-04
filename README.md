@@ -27,7 +27,7 @@ An analysis of the suicide rate in the world using SQL and Python to clean and e
 
 ![Interactive Map](/images/Map.jpg)
 
-## [Project 4: Clustering Analysis: Implementation of Clustering Algorithm in Python](https://github.com/Gabeeh94/Clustering-Analysis)
+## [Project 4: Clustering Analysis: Implementation of K-Modes Algorithm in Python](https://github.com/Gabeeh94/Clustering-Analysis)
 
 For this project, my client provided a database with a number of profiles which had a different set of profiles. The objective was:
 
